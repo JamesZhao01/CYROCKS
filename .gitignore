@@ -1,0 +1,5 @@
+*.png
+
+!1.png
+!env.png
+!vscode.png
